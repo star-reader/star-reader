@@ -1,14 +1,15 @@
 # Hi there 👋
 
-I'm Jerry Jin, an university student studying in SCAU, Guangzhou, China. I'm a full-stack web developer, andpassionate about researching new things, and continuous turning them into reality.
+I'm Jerry Jin, a university student at South China Agricultural University (SCAU) in Guangzhou, China. As a full-stack web developer, I am passionate about researching new things and continuously transforming them into reality.
 
-✨ **Brief introducing:**
+✨ **Brief Introduction:**
 
-- 🔭 I’m currently working on developing fun products, you can view them in my repository
-- 🌱 I’m currently learning Unity and Golang, it'a really interesting!
+- 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
+- 🌱 Presently, I am learning Unity and Golang. It's truly fascinating!
 - 💬 Feel free to ask me about **anything** !
-- 📫 How to reach me: email for `jinch2287@outlook.com`. If you have `WeChat`, `QQ`, `Discord` or `Telegram`, welcome to add me as friend~
-- ⚡ Fun fact: I have lots of hobbies. I enjoy coding, also love photography, running, swimming and watching movies in my free time.
+- 📫 Ways to reach me: Email me at `jinch2287@outlook.com`. If you have WeChat, QQ, Discord, or Telegram, feel free to add me as a friend.
+- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time.
+
 
 ## My Tech Stack 💻
 > My favorite and most-skilled
