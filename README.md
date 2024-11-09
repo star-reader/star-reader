@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Jerry Jin, a university student at South China Agricultural University (SCAU) in Guangzhou, China. As a full-stack web developer, I am passionate about researching new things and continuously transforming them into reality.
+I'm Jerry Jin, a university student at South China Agricultural University (SCAU) in Guangzhou, China. As a **full-stack web developer**, I am passionate about researching new things and continuously transforming them into reality.
 
 ✨ **Brief Introduction:**
 
@@ -204,4 +204,23 @@ I'm Jerry Jin, a university student at South China Agricultural University (SCAU
 
 
 ## Github stats 🚀
+
+> Here is my Github profile stats:
+
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+    </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-reader&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
+  </a>
+</div>
+<br />
+
+<!--
+> My profile views
+<img src="https://komarev.com/ghpvc/?username=star-reader&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+-->
+
+
 
