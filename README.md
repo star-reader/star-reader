@@ -162,12 +162,6 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="45" height="45" />
-      </a>
-      <br/> FastAPI
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="45" height="45" />
       </a>
       <br/> MatLab
