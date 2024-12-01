@@ -108,12 +108,6 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
       </a>
       <br/> Tailwind
     </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
-      </a>
-      <br/> Python
-    </td>
   </tr>
 </table>
 
