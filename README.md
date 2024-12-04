@@ -48,7 +48,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=html" alt="nodejs" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
       </a>
       <br/> Node.js
     </td>
