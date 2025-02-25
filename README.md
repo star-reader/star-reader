@@ -5,7 +5,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
 ✨ **Brief Introduction:**
 
 - 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
-- 🌱 Presently, I am learning Flutter and Golang. It's truly fascinating!
+- 🌱 Presently, I am learning Dart and Flutter. It's truly fascinating about the multi-platform development!
 - 💬 Feel free to ask me about **anything** !
 - 📫 Ways to reach me: Email me at `jinch2287@outlook.com`. If you have WeChat, QQ, Discord, or Telegram, feel free to add me as a friend.
 - ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time.
@@ -171,9 +171,9 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="45" height="45" />
       </a>
-      <br/> Golang
+      <br/> Dart
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
