@@ -8,7 +8,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
 - 🌱 Presently, I am learning Dart and Flutter. It's truly fascinating about the multi-platform development!
 - 💬 Feel free to ask me about **anything** !
 - 📫 Ways to reach me: Email me at `jinch2287@outlook.com`. If you have WeChat, QQ, Discord, or Telegram, feel free to add me as friends.
-- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time. I'm also a furry, loving cute things!
+- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time. I'm also **a furry**, loving cute things!
 
 
 ## My Tech Stack 💻
