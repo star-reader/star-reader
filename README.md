@@ -18,49 +18,49 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=html" alt="html" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=html&theme=light" alt="html" width="45" height="45" />
       </a>
       <br/> HTML
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=css" alt="css" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=css&theme=light" alt="css" width="45" height="45" />
       </a>
       <br/> CSS
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=js" alt="js" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=js&theme=light" alt="js" width="45" height="45" />
       </a>
       <br/> JavaScript
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="ts" width="45" height="45" />
       </a>
       <br/> TypeScript
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=jquery&theme=light" alt="jquery" width="45" height="45" />
       </a>
       <br/> jQuery
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=nodejs&theme=light" alt="nodejs" width="45" height="45" />
       </a>
       <br/> Node.js
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=express" alt="express" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=express&theme=light" alt="express" width="45" height="45" />
       </a>
       <br/> Express
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql" width="45" height="45" />
       </a>
       <br/> Mysql
     </td>
@@ -68,43 +68,43 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=vue" alt="vue" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=vue&theme=light" alt="vue" width="45" height="45" />
       </a>
       <br/> Vue
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=nuxtjs&theme=light" alt="nuxtjs" width="45" height="45" />
       </a>
       <br/> Nuxt.js
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=react&theme=light" alt="react" width="45" height="45" />
       </a>
       <br/> React
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=electron&theme=light" alt="electron" width="45" height="45" />
       </a>
       <br/> Electron
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=tauri" alt="tauri" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=tauri&theme=light" alt="tauri" width="45" height="45" />
       </a>
       <br/> Tauri
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=vite&theme=light" alt="Vite" width="45" height="45" />
       </a>
       <br/> Vite
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="tailwind" width="45" height="45" />
       </a>
       <br/> Tailwind
     </td>
@@ -120,43 +120,31 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="45" height="45" />
-      </a>
-      <br/> Bootstrap
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=threejs" alt="threejs" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=threejs&theme=light" alt="threejs" width="45" height="45" />
       </a>
       <br/> Three.js
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=graphql&theme=light" alt="graphql" width="45" height="45" />
       </a>
       <br/> GraphQL
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="linux" width="45" height="45" />
       </a>
       <br/> Linux
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=c" alt="c" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=py&theme=light" alt="python" width="45" height="45" />
       </a>
-      <br/> C
+      <br/> Python
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="45" height="45" />
-      </a>
-      <br/> C++
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=tensorflow&theme=light&theme=light" alt="tensorflow" width="45" height="45" />
       </a>
       <br/> Python
     </td>
@@ -171,13 +159,13 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
   <tr>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=dart&theme=light" alt="dart" width="45" height="45" />
       </a>
       <br/> Dart
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="python" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=flutter&theme=light" alt="python" width="45" height="45" />
       </a>
       <br/> Flutter
     </td>
