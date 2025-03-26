@@ -149,7 +149,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="45" height="45" />
       </a>
-      <br/> Python
+      <br/> TensorFlow
     </td>
   </tr>
 </table>
