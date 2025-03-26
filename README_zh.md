@@ -1,19 +1,21 @@
-# Hi there 👋
+[English](README.md) | 中文
 
-I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guangzhou, China. As a **full-stack web developer**, I am passionate about researching new things and continuously transforming them into reality.
+# Hi～ 👋
 
-✨ **Brief Introduction:**
+我是 Jerry Jin，华南农业大学（SCAU）的一名大二学生，目前在广州学习和工作。作为一名**Web全栈开发者**，我热衷于钻研新技术，并持续将其转化为现实成果。
 
-- 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
-- 🌱 Presently, I am learning Dart and Flutter. It's truly fascinating about the multi-platform development!
-- 💬 Feel free to ask me about **anything** !
-- 📫 Ways to reach me: Email me at `jinch2287@outlook.com`. If you have WeChat, QQ, Discord, or Telegram, feel free to add me as friends.
-- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time. I'm also **a furry**, loving cute things!
-- 🔬 I have a strong interest in biology, particularly bioinformatics and biocomputing.
+✨ **来个简单介绍吧:**
+
+- 🔭 目前，我正致力于开发一些有趣的产品，您可以在我的仓库中查看，
+- 🌱 目前，我正在学习 Dart 和 Flutter。跨平台开发真是太有趣了！
+- 💬 欢迎随时向我提问，任何问题都可以哦！
+- 📫 联系方式：你可以发送邮件至`jinch2287@gmail.com`。如果你有微信、QQ、Discord 或 Telegram，也欢迎加好友一起交流。
+- ⚡ 趣事：我兴趣广泛，既热爱编程，也喜欢摄影、跑步、游泳，闲暇时爱看电影。同时，我还是一名**福瑞控**，对可爱的事物毫无抵抗力！
+- 🔬 我对生物学有着浓厚兴趣，尤其是生物信息学与生物计算领域。
 
 
-## My Tech Stack 💻
-> My favorite and most-skilled
+## 我的技术栈 💻
+> 最喜欢和最擅长的
 
 <table>
   <tr>
@@ -115,7 +117,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
 
 [![Generic badge](https://img.shields.io/badge/level-skilled-green.svg)](https://shields.io/)
 
-> Also passionate for
+> 同时还热衷于
 
 <table>
   <tr>
@@ -154,7 +156,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
 
 
 [![Generic badge](https://img.shields.io/badge/level-master-yellow.svg)](https://shields.io/)
-> Learning
+> 目前正在学
 
 <table>
   <tr>
@@ -174,9 +176,9 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
 </table>
 
 
-## Github stats 🚀
+## Github 统计数据 🚀
 
-> Here is my Github profile stats:
+> 这里是我的Github统计数据:
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
