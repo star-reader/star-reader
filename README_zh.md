@@ -149,7 +149,7 @@
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="45" height="45" />
       </a>
-      <br/> Python
+      <br/> TensorFlow
     </td>
   </tr>
 </table>
