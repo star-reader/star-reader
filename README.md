@@ -1,7 +1,5 @@
 English | [中文](README_zh.md)
 
-> <small>Support for more languages is in progress.</small>
-
 # Hi there 👋
 
 I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guangzhou, China. As a **full-stack web developer**, I am passionate about researching new things and continuously transforming them into reality.
