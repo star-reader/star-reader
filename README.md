@@ -7,7 +7,7 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
 ✨ **Brief Introduction:**
 
 - 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
-- 🌱 Presently, I am learning Dart and Flutter. It's truly fascinating about the multi-platform development!
+- 🌱 Presently, I am learning Dart, Flutter and Swift. It's truly fascinating about the multi-platform development!
 - 💬 Feel free to ask me about **anything** !
 - ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time. I'm also **a furry**, loving cute things!
 - 🔬 I have a strong interest in biology, particularly bioinformatics and biocomputing.
@@ -170,6 +170,12 @@ I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guan
         <img src="https://skillicons.dev/icons?i=flutter" alt="python" width="45" height="45" />
       </a>
       <br/> Flutter
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=swift" alt="python" width="45" height="45" />
+      </a>
+      <br/> Swift
     </td>
   </tr>
 </table>
