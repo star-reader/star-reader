@@ -1,13 +1,13 @@
 [English](README.md) | 中文
 
-# Hi～ 👋
+# 你好呀～ 👋
 
 我是 Jerry Jin，华南农业大学（SCAU）的一名大二学生，目前在广州学习和工作。作为一名**Web全栈开发者**，我热衷于钻研新技术，并持续将其转化为现实成果。
 
 ✨ **来个简单介绍吧:**
 
 - 🔭 目前，我正致力于开发一些有趣的产品，您可以在我的仓库中查看，
-- 🌱 目前，我正在学习 Dart, Flutter和Swift。跨平台与iOS原生开发开发也太香了！
+- 🌱 目前，我正在学习 Dart和Flutter。跨平台开发实在是太香了！
 - 💬 欢迎随时向我提问，**任何问题**都可以哦！
 - ⚡ 趣事：我兴趣广泛，既热爱编程，也喜欢摄影、跑步、游泳，闲暇时爱看电影。同时，我还是一名**福瑞控**，对可爱的事物毫无抵抗力！
 - 🔬 我对生物学有着浓厚兴趣，尤其是生物信息学与生物计算领域。
@@ -150,6 +150,12 @@
       </a>
       <br/> TensorFlow
     </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="tailwind" width="45" height="45" />
+      </a>
+      <br/> PyTorch
+    </td>
   </tr>
 </table>
 
@@ -170,12 +176,6 @@
         <img src="https://skillicons.dev/icons?i=flutter" alt="python" width="45" height="45" />
       </a>
       <br/> Flutter
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=swift" alt="python" width="45" height="45" />
-      </a>
-      <br/> Swift
     </td>
   </tr>
 </table>
