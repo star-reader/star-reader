@@ -187,10 +187,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+      <img alt="star-reader's Github Stats" src="https://github-readme-stats-three-omega-98.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-reader&hide=html&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
+    <img alt="srae-reader's Top Languages" src="https://github-readme-stats-three-omega-98.vercel.app/api/top-langs/?username=star-reader&hide=html&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
   </a>
 </div>
 <br />
