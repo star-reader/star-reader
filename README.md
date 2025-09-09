@@ -4,10 +4,6 @@ English | [中文](README_zh.md)
 
 I'm Jerry Jin, an undergraduate students of South China Agricultural University (SCAU) in Guangzhou, China. As a **full-stack web developer**, I am passionate about researching new things and continuously transforming them into reality.
 
-I enjoy web development, especially for **ArcGIS**, **Mapbox**, and **3D rendering**. In particular, I thrive on geospatial data processing, leveraging tools like Mapbox and Leaflet to create interactive, dynamic maps. My work often extends to 3D map visualization, where integrate advanced rendering techniques to bring spatial data to life in immersive ways.
-
-My work and projects focus on aviation and meteorology applications. For example, building 3D GIS for flight path optimization with weather overlays and terrain modeling to boost safety and planning. In meteorology, I develop web algorithms for storm trajectory visualization using Mapbox GL JS for risk forecasting. These have refined my skills in big data handling, 3D rendering optimization, and API integration for scalable solutions. Eager to collaborate on geospatial innovations!
-
 ✨ **Brief Introduction:**
 
 - 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
@@ -16,6 +12,17 @@ My work and projects focus on aviation and meteorology applications. For example
 - ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time. I'm also **a furry**, loving cute things!
 - 🔬 I have a strong interest in biology, particularly bioinformatics and biocomputing.
 
+I enjoy web development, especially for **ArcGIS**, **Mapbox**, and **3D rendering**. In particular, I thrive on geospatial data processing, leveraging tools like Mapbox and Leaflet to create interactive, dynamic maps. My work often extends to 3D map visualization, where integrate advanced rendering techniques to bring spatial data to life in immersive ways.
+
+My work and projects focus on aviation and meteorology applications. For example, building 3D GIS for flight path optimization with weather overlays and terrain modeling to boost safety and planning. In meteorology, I develop web algorithms for storm trajectory visualization using Mapbox GL JS for risk forecasting. These have refined my skills in big data handling, 3D rendering optimization, and API integration for scalable solutions. Eager to collaborate on geospatial innovations!
+
+![Project Image 1](https://raw.githubusercontent.com/star-reader/star-reader/main/readme_assets/1.png)
+
+![Project Image 2](https://raw.githubusercontent.com/star-reader/star-reader/main/readme_assets/2.png)
+
+![Project Image 3](https://raw.githubusercontent.com/star-reader/star-reader/main/readme_assets/3.png)
+
+![Project Image 4](https://raw.githubusercontent.com/star-reader/star-reader/main/readme_assets/4.png)
 
 ## My Tech Stack 💻
 > My favorite and most-skilled
