@@ -2,7 +2,11 @@ English | [中文](README_zh.md)
 
 # Hi there 👋
 
-I'm Jerry Jin, a sophomore of South China Agricultural University (SCAU) in Guangzhou, China. As a **full-stack web developer**, I am passionate about researching new things and continuously transforming them into reality.
+I'm Jerry Jin, an undergraduate students of South China Agricultural University (SCAU) in Guangzhou, China. As a **full-stack web developer**, I am passionate about researching new things and continuously transforming them into reality.
+
+I enjoy web development, especially for **ArcGIS**, **Mapbox**, and **3D rendering**. In particular, I thrive on geospatial data processing, leveraging tools like Mapbox and Leaflet to create interactive, dynamic maps. My work often extends to 3D map visualization, where integrate advanced rendering techniques to bring spatial data to life in immersive ways.
+
+My work and projects focus on aviation and meteorology applications. For example, building 3D GIS for flight path optimization with weather overlays and terrain modeling to boost safety and planning. In meteorology, I develop web algorithms for storm trajectory visualization using Mapbox GL JS for risk forecasting. These have refined my skills in big data handling, 3D rendering optimization, and API integration for scalable solutions. Eager to collaborate on geospatial innovations!
 
 ✨ **Brief Introduction:**
 
