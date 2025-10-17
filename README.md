@@ -163,9 +163,15 @@ My work and projects focus on aviation and meteorology applications. For example
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="tailwind" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="45" height="45" />
       </a>
       <br/> PyTorch
+    </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=go" alt="go" width="45" height="45" />
+      </a>
+      <br/> Golang
     </td>
   </tr>
 </table>
@@ -184,7 +190,7 @@ My work and projects focus on aviation and meteorology applications. For example
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=flutter" alt="python" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="45" height="45" />
       </a>
       <br/> Flutter
     </td>
