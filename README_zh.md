@@ -110,12 +110,6 @@
     </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
-        <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="45" height="45" />
-      </a>
-      <br/> Vite
-    </td>
-    <td align="center" width="90">
-      <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="45" height="45" />
       </a>
       <br/> Tailwind
