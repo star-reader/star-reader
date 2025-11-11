@@ -9,7 +9,7 @@
 - 🔭 目前，我正致力于开发一些有趣的产品，您可以在我的仓库中查看，
 - 🌱 目前，我正在学习 Dart和Flutter。跨平台开发实在是太香了！
 - 💬 欢迎随时向我提问，**任何问题**都可以哦！
-- ⚡ 趣事：我兴趣广泛，既热爱编程，也喜欢摄影、跑步、游泳，闲暇时爱看电影。同时，我还是一名**福瑞控**，对可爱的事物毫无抵抗力！
+- 🦊 我还是个**福瑞控**，也拥有自己的"狐狸"，欢迎同好来找我交流（还可以来一起出毛！）
 
 我热爱网页开发，特别是ArcGIS、Mapbox 和 3D渲染，我比较擅长地理空间数据处理，利用Mapbox、Leaflet等创建互动式动态地图。我的工作也涉及3D地图可视化，整合先进的渲染技术，让空间数据以沉浸式方式生动呈现。
 我的工作和项目专注于航空和气象领域的应用。例如，构建用于飞行路径优化的3D GIS系统，结合天气叠加和地形建模，以提升安全性和规划效率。在气象领域，我负责开发网页算法，用于风暴轨迹可视化等，借助Mapbox GL JS实现风险预测。这些经历精炼了我在大数据处理、3D 渲染优化以及 API 集成方面的技能，致力于构建可扩展的解决方案。我渴望与他人合作，推动地理空间技术的创新！
@@ -130,12 +130,12 @@
       </a>
       <br/> Three.js
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="45" height="45" />
       </a>
       <br/> GraphQL
-    </td>
+    </td> -->
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45" />
@@ -197,10 +197,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="star-reader's Github Stats" src="https://github-readme-stats-three-omega-98.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676&q=1" height="192px"/>
+      <img alt="star-reader's Github Stats" src="https://github-readme-stats-three-omega-98.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676&q=2" height="192px"/>
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="srae-reader's Top Languages" src="https://github-readme-stats-three-omega-98.vercel.app/api/top-langs/?username=star-reader&hide=html&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&q=1" height="192px"/>
+    <img alt="srae-reader's Top Languages" src="https://github-readme-stats-three-omega-98.vercel.app/api/top-langs/?username=star-reader&hide=html&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&q=2" height="192px"/>
   </a>
 </div>
 <br />

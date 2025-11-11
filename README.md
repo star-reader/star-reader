@@ -7,10 +7,9 @@ I'm Jerry Jin, an undergraduate students of South China Agricultural University 
 ✨ **Brief Introduction:**
 
 - 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
-- 🌱 Presently, I am learning Dart, Flutter. It's truly fascinating about the multi-platform developmentna and iOS native development!
+- 🌱 I am learning Dart, Flutter. It's truly fascinating about the multi-platform development!
 - 💬 Feel free to ask me about **anything** !
-- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love photography, running, swimming, and watching movies in my free time. I'm also **a furry**, loving cute things!
-- 🔬 I have a strong interest in biology, particularly bioinformatics and biocomputing.
+- 🦊 I'm also a **furry** and also keep my own 'foxes'. Welcome to connect and chat with me (we can even fursuit together!).
 
 I enjoy web development, especially for **ArcGIS**, **Mapbox**, and **3D rendering**. In particular, I thrive on geospatial data processing, leveraging tools like Mapbox and Leaflet to create interactive, dynamic maps. My work often extends to 3D map visualization, where integrate advanced rendering techniques to bring spatial data to life in immersive ways.
 
@@ -131,12 +130,12 @@ My work and projects focus on aviation and meteorology applications. For example
       </a>
       <br/> Three.js
     </td>
-    <td align="center" width="90">
+    <!-- <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="45" height="45" />
       </a>
       <br/> GraphQL
-    </td>
+    </td> -->
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="45" height="45" />
@@ -198,10 +197,10 @@ My work and projects focus on aviation and meteorology applications. For example
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="star-reader's Github Stats" src="https://github-readme-stats-three-omega-98.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676&q=1" height="192px"/>
+      <img alt="star-reader's Github Stats" src="https://github-readme-stats-three-omega-98.vercel.app/api/?username=star-reader&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676&q=2" height="192px"/>
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="srae-reader's Top Languages" src="https://github-readme-stats-three-omega-98.vercel.app/api/top-langs/?username=star-reader&hide=html&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&q=1" height="192px"/>
+    <img alt="srae-reader's Top Languages" src="https://github-readme-stats-three-omega-98.vercel.app/api/top-langs/?username=star-reader&hide=html&langs_count=10&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&q=2" height="192px"/>
   </a>
 </div>
 <br />
