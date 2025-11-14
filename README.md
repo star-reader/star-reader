@@ -9,7 +9,7 @@ I'm Jerry Jin, an undergraduate students of South China Agricultural University 
 - 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
 - 🌱 I am learning Dart, Flutter. It's truly fascinating about the multi-platform development!
 - 💬 Feel free to ask me about **anything** !
-- 🦊 I'm a **furry** and also keep my own 'fox'. Welcome to connect and chat with me (we can even fursuit together!).
+- 🦊 I'm a **furry** and also keep my own 'fox'. Feel free to chat with me (we can even fursuit together!). I also have many other hobbies, such as astronomy. I'm also a transportation enthusiast; I like airplanes and subways.
 
 I enjoy web development, especially for **ArcGIS**, **Mapbox**, and **3D rendering**. In particular, I thrive on geospatial data processing, leveraging tools like Mapbox and Leaflet to create interactive, dynamic maps. My work often extends to 3D map visualization, where integrate advanced rendering techniques to bring spatial data to life in immersive ways.
 
