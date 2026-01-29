@@ -187,6 +187,12 @@ My work and projects focus on aviation and meteorology applications. For example
       </a>
       <br/> Flutter
     </td>
+    <td align="center" width="90">
+      <a href="#my-tech-stack-">
+        <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="45" height="45" />
+      </a>
+      <br/> Rust
+    </td>
   </tr>
 </table>
 
